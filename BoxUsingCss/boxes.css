@@ -1,0 +1,123 @@
+#box1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 0;
+}
+
+#box2 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+
+}
+
+#box3 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+
+}
+
+#box4 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+    bottom: 200px;
+
+
+
+}
+
+#box5 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(228, 25, 113);
+    position: relative;
+    left: 100px;
+    bottom: 300px;
+
+}
+
+#box6 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(80, 80, 7);
+    position: relative;
+    left: 200px;
+    bottom: 400px;
+
+}
+
+#box7 {
+    height: 100px;
+    width: 100px;
+    background-color: rgba(226, 127, 144, 0.827);
+    position: relative;
+    bottom: 400px;
+
+
+
+}
+
+#box8 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(105, 6, 6);
+    position: relative;
+    left: 100px;
+    bottom: 500px;
+
+}
+
+#box9 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(39, 241, 200);
+    position: relative;
+    left: 200px;
+    bottom: 600px;
+
+}
+#box1:hover {
+    background-color: rgb(203, 69, 176);
+}
+#box2:hover {
+    background-color: rgb(203, 69, 176);
+}
+
+#box3:hover {
+    background-color:  rgb(203, 69, 176);
+}
+
+#box4:hover {
+    background-color: #165e63;
+}
+
+#box5:hover {
+    background-color: #165e63;
+}
+
+#box6:hover {
+    background-color: #165e63;
+}
+
+#box7:hover {
+    background-color:#bdbf26;
+}
+
+#box8:hover {
+    background-color: #bdbf26;
+}
+
+#box9:hover {
+    background-color: #bdbf26;
+}
+
